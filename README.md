@@ -82,8 +82,9 @@ offline_agentic_AI_framework/
 └── README.md
 
 3. Clone Project from GitHub
-git clone <YOUR_GITHUB_REPO_URL>
-cd offline_agentic_AI_framework
+git clone https://github.com/shashank-jagattiwar/offline_agentic_ai.git
+cd offline_agentic_ai/offline_agentic_AI_framework
+
 
 4. Create & Activate Virtual Environment
 python -m venv agentic_env
@@ -98,6 +99,7 @@ You should see:
 
 5. Install All Required Libraries (ONE COMMAND)
 
+pip install -r requirements.txt
 
 
 pip install \
@@ -261,3 +263,4 @@ Experimental summaries
 Documentation and logs
 
 Language models operate on textual information, making exported LabVIEW data ideal for accurate and relevant answers.
+
