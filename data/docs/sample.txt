@@ -1,0 +1,2 @@
+PXI is a modular electronic instrumentation platform used in automated test systems.
+RIT stands for Radar Interface Technology used in defense and aerospace applications.

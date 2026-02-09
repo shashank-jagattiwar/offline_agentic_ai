@@ -1,0 +1,29 @@
+# -----------------------------
+# Python cache (auto-generated)
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# -----------------------------
+# Virtual environment
+# -----------------------------
+agentic_env/
+
+# -----------------------------
+# FAISS vector index (rebuild on target system)
+# -----------------------------
+vector_store/faiss_index/
+vector_store/logs/
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
+
+# -----------------------------
+# OS / Editor junk
+# -----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
